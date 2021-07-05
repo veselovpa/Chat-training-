@@ -1,0 +1,14 @@
+C:\Новая папка\veslab1\Debug\sharp.exe.config
+C:\Новая папка\veslab1\Debug\sharp.exe
+C:\Новая папка\veslab1\Debug\sharp.pdb
+C:\Новая папка\veslab1\sharp\obj\Debug\sharp.csprojAssemblyReference.cache
+C:\Новая папка\veslab1\sharp\obj\Debug\sharp.csproj.CoreCompileInputs.cache
+C:\Новая папка\veslab1\sharp\obj\Debug\sharp.exe
+C:\Новая папка\veslab1\sharp\obj\Debug\sharp.pdb
+D:\__repo\veslab1\Debug\sharp.exe.config
+D:\__repo\veslab1\Debug\sharp.exe
+D:\__repo\veslab1\Debug\sharp.pdb
+D:\__repo\veslab1\sharp\obj\Debug\sharp.csprojAssemblyReference.cache
+D:\__repo\veslab1\sharp\obj\Debug\sharp.csproj.CoreCompileInputs.cache
+D:\__repo\veslab1\sharp\obj\Debug\sharp.exe
+D:\__repo\veslab1\sharp\obj\Debug\sharp.pdb

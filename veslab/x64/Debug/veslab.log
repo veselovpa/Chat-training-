@@ -1,0 +1,5 @@
+﻿  Msg.cpp
+  veslab.cpp
+D:\__repo\veslab1\veslab\veslab.cpp(50,17): warning C4101: 'id1': unreferenced local variable
+  Generating Code...
+  veslab.vcxproj -> D:\__repo\veslab1\Debug\veslab.exe
